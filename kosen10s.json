@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "name": "明石",
+      "pref": "兵庫県",
+      "population": 4
+    },
+    {
+      "name": "津山",
+      "pref": "岡山県",
+      "population": 2
+    },
+    {
+      "name": "サレジオ",
+      "pref": "東京都",
+      "population": 2
+    },
+    {
+      "name": "茨城",
+      "pref": "茨城県",
+      "population": 5
+    },
+    {
+      "name": "福井",
+      "pref": "福井県",
+      "population": 1
+    },
+    {
+      "name": "産技荒川",
+      "pref": "東京都",
+      "population": 2
+    },
+    {
+      "name": "松江",
+      "pref": "島根県",
+      "population": 1
+    },
+    {
+      "name": "群馬",
+      "pref": "群馬県",
+      "population": 1
+    },
+    {
+      "name": "大阪府大",
+      "pref": "大阪府",
+      "population": 1
+    },
+    {
+      "name": "沖縄",
+      "pref": "沖縄県",
+      "population": 2
+    },
+    {
+      "name": "木更津",
+      "pref": "千葉県",
+      "population": 1
+    },
+    {
+      "name": "久留米",
+      "pref": "福岡県",
+      "population": 1
+    },
+    {
+      "name": "小山",
+      "pref": "栃木県",
+      "population": 1
+    },
+    {
+      "name": "金沢",
+      "pref": "石川県",
+      "population": 2
+    },
+    {
+      "name": "長岡",
+      "pref": "新潟県",
+      "population": 2
+    },
+    {
+      "name": "鈴鹿",
+      "pref": "三重県",
+      "population": 1
+    },
+    {
+      "name": "奈良",
+      "pref": "奈良県",
+      "population": 1
+    },
+    {
+      "name": "米子",
+      "pref": "鳥取県",
+      "population": 1
+    }
+  ]
+}
